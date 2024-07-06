@@ -1,0 +1,818 @@
+[24-Apr-2023 01:46:29 UTC] PHP Warning:  Undefined array key "image" in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 5
+[24-Apr-2023 01:46:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 5
+[24-Apr-2023 01:46:29 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/ruhslzsa/public_html/waps/a_list_addface.php:5
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/a_list_addface.php(5): file_get_contents('')
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 5
+[24-Apr-2023 01:48:43 UTC] PHP Warning:  mkdir(): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 13
+[24-Apr-2023 01:48:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruhslzsa/public_html/waps/a_list_addface.php:13) in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 79
+[24-Apr-2023 01:48:46 UTC] PHP Warning:  mkdir(): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 13
+[24-Apr-2023 01:48:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruhslzsa/public_html/waps/a_list_addface.php:13) in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 79
+[24-Apr-2023 01:50:07 UTC] PHP Warning:  mkdir(): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 14
+[24-Apr-2023 01:50:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruhslzsa/public_html/waps/a_list_addface.php:11) in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 80
+[24-Apr-2023 01:50:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruhslzsa/public_html/waps/a_list_addface.php:11) in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 27
+[24-Apr-2023 01:55:48 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/1.png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 20
+[24-Apr-2023 01:55:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruhslzsa/public_html/waps/a_list_addface.php:11) in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 82
+[24-Apr-2023 01:56:32 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/1.png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 20
+[24-Apr-2023 01:57:41 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/2 (1).png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 20
+[24-Apr-2023 02:00:52 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/2 (1).png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 20
+[24-Apr-2023 02:02:22 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/2 (1).png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 20
+[24-Apr-2023 02:03:06 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/2 (1).png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 20
+[24-Apr-2023 02:03:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruhslzsa/public_html/waps/a_list_addface.php:11) in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 44
+[24-Apr-2023 02:05:02 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/1.png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 20
+[24-Apr-2023 02:07:26 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/1.png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 20
+[24-Apr-2023 02:09:48 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/1.png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 20
+[24-Apr-2023 02:12:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruhslzsa/public_html/waps/a_list_addface.php:11) in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 103
+[24-Apr-2023 02:13:53 UTC] PHP Warning:  unlink(./FaceRecognition/labels/23040001/12.png): No such file or directory in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 19
+[24-Apr-2023 02:13:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruhslzsa/public_html/waps/a_list_addface.php:19) in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 43
+[24-Apr-2023 02:20:39 UTC] PHP Warning:  Array to string conversion in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 22
+[24-Apr-2023 02:20:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruhslzsa/public_html/waps/a_list_addface.php:22) in /home/ruhslzsa/public_html/waps/a_list_addface.php on line 27
+[26-Apr-2023 01:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/waps/a_deductions_update.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/waps/a_deductions_update.php on line 16
+[26-Apr-2023 01:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/waps/a_deductions_update.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/waps/a_deductions_update.php on line 18
+[26-Apr-2023 01:46:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/waps/a_deductions_update.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/waps/a_deductions_update.php on line 18
+[26-Apr-2023 01:46:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/waps/a_deductions_update.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/waps/a_deductions_update.php on line 18
+[26-Apr-2023 01:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/waps/a_deductions_update.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/waps/a_deductions_update.php on line 18
+[10-May-2023 02:22:01 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/waps/export_excel.php:46
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(46): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 46
+[10-May-2023 03:06:03 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/waps/export_excel.php:220
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(220): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 220
+[10-May-2023 03:58:49 Asia/Manila] PHP Warning:  Undefined variable $date in /home/ruhslzsa/public_html/waps/export_excel.php on line 388
+[10-May-2023 04:51:37 Asia/Manila] PHP Warning:  Undefined array key "excel-month" in /home/ruhslzsa/public_html/waps/export_excel.php on line 590
+[10-May-2023 04:52:54 Asia/Manila] PHP Warning:  Undefined array key "excel-month" in /home/ruhslzsa/public_html/waps/export_excel.php on line 590
+[10-May-2023 04:53:57 Asia/Manila] PHP Warning:  Undefined array key "excel-month" in /home/ruhslzsa/public_html/waps/export_excel.php on line 590
+[10-May-2023 04:54:38 Asia/Manila] PHP Warning:  Undefined array key "excel-month" in /home/ruhslzsa/public_html/waps/export_excel.php on line 590
+[10-May-2023 04:54:49 Asia/Manila] PHP Warning:  Undefined array key "excel-month" in /home/ruhslzsa/public_html/waps/export_excel.php on line 590
+[10-May-2023 23:20:15 Asia/Manila] PHP Warning:  Undefined array key "start-date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 690
+[10-May-2023 23:20:15 Asia/Manila] PHP Warning:  Undefined array key "end-date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 691
+[10-May-2023 23:30:16 Asia/Manila] PHP Warning:  Undefined array key "start-date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 690
+[10-May-2023 23:30:16 Asia/Manila] PHP Warning:  Undefined array key "end-date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 691
+[10-May-2023 23:42:47 Asia/Manila] PHP Fatal error:  Uncaught TypeError: strtotime(): Argument #1 ($datetime) must be of type string, array given in /home/ruhslzsa/public_html/waps/export_excel.php:692
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(692): strtotime()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 692
+[11-May-2023 00:35:57 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:708
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(708): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 708
+[11-May-2023 00:37:21 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:711
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(711): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 711
+[11-May-2023 00:39:02 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:711
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(711): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 711
+[11-May-2023 00:41:35 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:711
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(711): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 711
+[11-May-2023 00:44:02 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:604
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(604): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 604
+[11-May-2023 00:45:21 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:606
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(606): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 606
+[11-May-2023 00:46:23 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:606
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(606): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 606
+[11-May-2023 00:46:41 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:606
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(606): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 606
+[11-May-2023 00:46:50 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:606
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(606): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 606
+[11-May-2023 00:53:25 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:505
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(505): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 505
+[11-May-2023 00:56:27 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/waps/export_excel.php:607
+Stack trace:
+#0 /home/ruhslzsa/public_html/waps/export_excel.php(607): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/waps/export_excel.php on line 607
+[11-May-2023 01:05:47 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 520
+[11-May-2023 01:05:47 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 520
+[11-May-2023 01:08:32 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:08:32 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:08:32 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:08:32 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:08:32 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:08:32 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:32:29 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:32:29 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:32:29 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:32:29 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:32:29 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 01:32:29 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 20:17:28 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 20:17:28 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 20:17:28 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 20:17:28 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 20:17:28 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[11-May-2023 20:17:28 Asia/Manila] PHP Warning:  Undefined array key "date" in /home/ruhslzsa/public_html/waps/export_excel.php on line 413
+[12-May-2023 20:48:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/ruhslzsa/public_html/waps/a_shift_add.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/waps/a_shift_add.php on line 46
+[12-May-2023 20:49:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/ruhslzsa/public_html/waps/a_shift_add.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/waps/a_shift_add.php on line 46
+[13-May-2023 10:44:43 Asia/Manila] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/export_excel.php:17
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/export_excel.php(17): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/export_excel.php on line 17
+[13-May-2023 06:05:48 UTC] PHP Warning:  Undefined variable $result_check in /home/ruhslzsa/public_html/bergs/a_restdays_add.php on line 11
+[13-May-2023 06:05:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/ruhslzsa/public_html/bergs/a_restdays_add.php:11
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_restdays_add.php(11): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_restdays_add.php on line 11
+[13-May-2023 06:05:50 UTC] PHP Warning:  Undefined variable $result_check in /home/ruhslzsa/public_html/bergs/a_restdays_add.php on line 11
+[13-May-2023 06:05:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/ruhslzsa/public_html/bergs/a_restdays_add.php:11
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_restdays_add.php(11): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_restdays_add.php on line 11
+[13-May-2023 15:16:57 UTC] PHP Warning:  Undefined variable $row in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 24
+[13-May-2023 15:16:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 24
+[13-May-2023 15:23:56 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:23:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 31
+[13-May-2023 15:23:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 31
+[13-May-2023 15:23:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 31
+[13-May-2023 15:23:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 32
+[13-May-2023 15:24:05 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:24:10 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:25:28 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:25:37 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:27:20 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:27:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 27
+[13-May-2023 15:27:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 27
+[13-May-2023 15:27:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 27
+[13-May-2023 15:27:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 28
+[13-May-2023 15:33:32 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 6
+[13-May-2023 15:33:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 29
+[13-May-2023 15:33:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 29
+[13-May-2023 15:33:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 29
+[13-May-2023 15:33:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 30
+[13-May-2023 15:34:39 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:35:20 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:37:04 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 6
+[13-May-2023 15:37:16 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 6
+[13-May-2023 15:37:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 29
+[13-May-2023 15:37:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 29
+[13-May-2023 15:37:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 29
+[13-May-2023 15:37:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 30
+[13-May-2023 15:42:11 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:42:56 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:43:55 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:44:02 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[13-May-2023 15:44:07 UTC] PHP Warning:  Undefined array key "employee_id" in /home/ruhslzsa/public_html/bergs/a_restdays_update.php on line 5
+[17-May-2023 19:11:31 UTC] PHP Warning:  Undefined variable $mysqli in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 237
+[17-May-2023 19:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:237
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 237
+[17-May-2023 19:13:49 UTC] PHP Warning:  Undefined variable $tableName in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 238
+[17-May-2023 19:13:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:267
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(267): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 267
+[17-May-2023 19:14:34 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:14:34 UTC] PHP Warning:  Undefined variable $date_name in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 305
+[17-May-2023 19:15:36 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:24:17 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:26:01 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:26:11 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:26:56 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:34:19 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:37:40 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:38:58 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:39:50 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:41:26 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:42:23 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:44:19 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:44:39 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 272
+[17-May-2023 19:57:38 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 273
+[17-May-2023 19:59:54 UTC] PHP Warning:  Undefined variable $output in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 273
+[17-May-2023 19:59:54 UTC] PHP Warning:  require_once(path/to/vendor/autoload.php): Failed to open stream: No such file or directory in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 277
+[17-May-2023 19:59:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:277
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 277
+[17-May-2023 20:06:13 UTC] PHP Fatal error:  Uncaught Error: Class "Spreadsheet" not found in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:275
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 275
+[18-May-2023 09:24:22 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to undefined method PDF::getStringHeight() in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:185
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(256): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 185
+[26-May-2023 23:10:32 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:200
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(275): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 200
+[26-May-2023 23:12:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:200
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(275): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 200
+[26-May-2023 23:16:54 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:201
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(276): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 201
+[26-May-2023 23:20:29 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:201
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(276): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 201
+[26-May-2023 23:22:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[26-May-2023 23:22:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[26-May-2023 23:22:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[26-May-2023 15:48:14 UTC] PHP Warning:  Undefined variable $conn in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 102
+[26-May-2023 15:48:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:102
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 102
+[26-May-2023 23:49:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:209
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(284): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 209
+[26-May-2023 23:50:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:209
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(284): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 209
+[26-May-2023 23:51:33 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:207
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(282): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 207
+[26-May-2023 23:52:11 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:209
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(284): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 209
+[26-May-2023 23:53:04 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:209
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(284): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 209
+[26-May-2023 23:54:31 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[26-May-2023 23:54:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[26-May-2023 23:55:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[26-May-2023 23:55:58 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:181
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(256): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 181
+[26-May-2023 23:59:02 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:201
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(276): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 201
+[26-May-2023 23:59:09 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:201
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(276): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 201
+[27-May-2023 00:01:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[27-May-2023 00:02:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[27-May-2023 00:02:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[27-May-2023 00:02:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[27-May-2023 00:03:04 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:202
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(277): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 202
+[27-May-2023 00:05:28 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:194
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(269): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 194
+[27-May-2023 00:08:43 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:194
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(269): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 194
+[27-May-2023 00:12:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:194
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(269): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 194
+[27-May-2023 00:14:51 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:197
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(272): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 197
+[27-May-2023 00:15:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:197
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(272): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 197
+[27-May-2023 00:42:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:215
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(293): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 215
+[26-May-2023 19:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function formatHoursMinutes() in /home/ruhslzsa/public_html/bergs/a_export.php:65
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_export.php on line 65
+[26-May-2023 19:43:17 UTC] PHP Fatal error:  Cannot redeclare formatHoursMinutes() (previously declared in /home/ruhslzsa/public_html/bergs/a_export.php:61) in /home/ruhslzsa/public_html/bergs/a_export.php on line 61
+[26-May-2023 19:43:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function formatHoursMinutes() in /home/ruhslzsa/public_html/bergs/a_export.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_export.php on line 66
+[26-May-2023 19:46:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function formatHoursMinutes() in /home/ruhslzsa/public_html/bergs/a_export.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_export.php on line 66
+[26-May-2023 19:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function formatHoursMinutes() in /home/ruhslzsa/public_html/bergs/a_export.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_export.php on line 66
+[26-May-2023 20:02:06 UTC] PHP Warning:  Undefined array key "month" in /home/ruhslzsa/public_html/bergs/s_export.php on line 15
+[26-May-2023 20:02:57 UTC] PHP Warning:  Undefined array key "month" in /home/ruhslzsa/public_html/bergs/s_export.php on line 15
+[26-May-2023 20:03:12 UTC] PHP Warning:  Undefined array key "month" in /home/ruhslzsa/public_html/bergs/s_export.php on line 15
+[26-May-2023 20:03:17 UTC] PHP Warning:  Undefined array key "month" in /home/ruhslzsa/public_html/bergs/s_export.php on line 15
+[26-May-2023 20:58:02 UTC] PHP Warning:  Undefined variable $result in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 354
+[26-May-2023 20:58:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:354
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(354): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 354
+[27-May-2023 13:38:02 UTC] PHP Warning:  Undefined variable $mysqli in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 373
+[27-May-2023 13:38:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:373
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 373
+[27-May-2023 23:05:21 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 222
+[28-May-2023 00:57:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/add_memo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/add_memo.php on line 10
+[30-May-2023 21:39:34 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 13:40:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:383
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(383): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 383
+[30-May-2023 21:40:46 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 13:40:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:383
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(383): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 383
+[30-May-2023 13:41:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:383
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(383): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 383
+[30-May-2023 21:45:37 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 21:45:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 21:46:05 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 21:46:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 21:46:40 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 21:46:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 21:47:35 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 222
+[30-May-2023 21:49:02 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 21:51:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 21:57:44 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 22:02:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 22:05:15 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 14:05:18 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:383
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(383): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 383
+[30-May-2023 22:09:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 22:10:24 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 22:11:23 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 22:15:19 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 22:16:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 222
+[30-May-2023 22:17:06 Asia/Manila] PHP Warning:  Undefined variable $result1 in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 165
+[30-May-2023 22:17:06 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:165
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(240): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 165
+[30-May-2023 22:19:14 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 22:19:39 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 14:24:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:384
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(384): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 384
+[30-May-2023 14:24:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:384
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(384): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 384
+[30-May-2023 22:26:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 22:29:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 222
+[30-May-2023 14:32:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:384
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(384): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 384
+[30-May-2023 22:32:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:222
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 222
+[30-May-2023 14:33:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:384
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(384): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 384
+[30-May-2023 22:33:50 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:223
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 223
+[30-May-2023 22:34:26 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:230
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(307): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 230
+[30-May-2023 22:36:13 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:230
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(307): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 230
+[30-May-2023 14:37:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:384
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(384): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 384
+[30-May-2023 22:38:20 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:236
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(313): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 236
+[30-May-2023 14:40:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:389
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(389): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 389
+[30-May-2023 22:43:53 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:223
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 223
+[30-May-2023 22:48:04 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:223
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 223
+[30-May-2023 22:48:45 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:223
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 223
+[30-May-2023 22:50:17 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:223
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 223
+[30-May-2023 22:51:18 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:225
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(302): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 225
+[30-May-2023 22:52:47 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:223
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 223
+[30-May-2023 22:53:17 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:223
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(300): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 223
+[30-May-2023 23:01:55 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:220
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(297): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 220
+[30-May-2023 23:04:56 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:218
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(295): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 218
+[30-May-2023 23:07:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:221
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(298): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 221
+[30-May-2023 15:09:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 56
+[30-May-2023 15:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 55
+[30-May-2023 15:11:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 55
+[30-May-2023 15:12:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 55
+[30-May-2023 15:12:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 55
+[30-May-2023 23:13:40 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:221
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(298): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 221
+[30-May-2023 15:14:16 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:388
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(388): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 388
+[30-May-2023 23:14:27 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:221
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 221
+[30-May-2023 23:16:02 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:221
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(298): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 221
+[30-May-2023 23:19:02 Asia/Manila] PHP Warning:  foreach() argument must be of type array|object, bool given in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 221
+[30-May-2023 23:19:02 Asia/Manila] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/ruhslzsa/public_html/bergs/fpdf.php:273
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/fpdf.php(1057): FPDF->Error()
+#1 /home/ruhslzsa/public_html/bergs/fpdf.php(1003): FPDF->_checkoutput()
+#2 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(305): FPDF->Output()
+#3 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/fpdf.php on line 273
+[30-May-2023 23:20:59 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:221
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 221
+[30-May-2023 23:21:36 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:221
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(299): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 221
+[30-May-2023 23:23:16 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:224
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(301): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 224
+[30-May-2023 23:25:38 Asia/Manila] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:224
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(301): PDF->Body()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 224
+[30-May-2023 15:32:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:390
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(390): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 390
+[30-May-2023 15:34:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:387
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/a_attendance_print.php(387): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 387
+[30-May-2023 15:40:26 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:388
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(388): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 388
+[30-May-2023 15:40:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:388
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(388): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 388
+[30-May-2023 15:44:30 UTC] PHP Warning:  Undefined variable $mysqli in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:359
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:46:33 UTC] PHP Warning:  Undefined variable $mysqli in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:46:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:359
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:46:38 UTC] PHP Warning:  Undefined variable $mysqli in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:359
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:47:53 UTC] PHP Warning:  Undefined variable $mysqli in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:47:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:359
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:49:25 UTC] PHP Warning:  Undefined variable $mysqli in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:49:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:359
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:54:17 UTC] PHP Warning:  Undefined variable $mysqli in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:54:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:359
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:55:13 UTC] PHP Warning:  Undefined variable $mysqli in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 15:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ruhslzsa/public_html/bergs/a_attendance_print.php:359
+Stack trace:
+#0 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/a_attendance_print.php on line 359
+[30-May-2023 16:46:20 UTC] PHP Warning:  Undefined variable $result in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 382
+[30-May-2023 16:46:20 UTC] PHP Warning:  Undefined variable $result in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 388
+[30-May-2023 16:46:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, null given in /home/ruhslzsa/public_html/bergs/s_attendance_print.php:388
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/s_attendance_print.php(388): mysqli_num_rows()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/s_attendance_print.php on line 388

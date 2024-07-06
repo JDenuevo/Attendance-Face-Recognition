@@ -1,0 +1,78 @@
+[15-May-2023 02:39:54 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:87
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(87): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 87
+[15-May-2023 02:43:53 Asia/Manila] PHP Warning:  Undefined array key "image" in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 143
+[15-May-2023 02:45:15 Asia/Manila] PHP Warning:  Undefined array key "image" in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 143
+[15-May-2023 02:59:51 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:00 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:01 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:01 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:01 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:15 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:16 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:18 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:25 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:41 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:00:59 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:01:00 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[15-May-2023 03:01:02 Asia/Manila] PHP Fatal error:  Uncaught TypeError: date(): Argument #2 ($timestamp) must be of type ?int, string given in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php:92
+Stack trace:
+#0 /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php(92): date()
+#1 {main}
+  thrown in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 92
+[28-May-2023 22:25:26 Asia/Manila] PHP Warning:  Undefined array key "name" in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 11
+[28-May-2023 22:27:45 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 198
+[28-May-2023 22:28:11 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 198
+[28-May-2023 22:30:22 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 198
+[28-May-2023 22:34:05 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 197
+[28-May-2023 22:34:11 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in /home/ruhslzsa/public_html/bergs/E_FaceRecognition/insert_data.php on line 197
